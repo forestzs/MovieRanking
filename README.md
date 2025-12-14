@@ -12,7 +12,7 @@ Github
 ├── requirements.txt
 ├── data/
 │   ├── raw/
-│   │   ├── IMDB-ratings/        # raw IMDb TSV files
+│   │   ├── IMDB-ratings/        # raw IMDb TSV files(too large, not included files but provide the url)
 │   │   ├── TMDB-popularity/     # raw TMDb popularity CSV
 │   │   └── TMDB-revenue/        # raw TMDb revenue CSV
 │   └── processed/
