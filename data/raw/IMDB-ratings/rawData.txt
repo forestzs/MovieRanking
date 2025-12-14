@@ -1,0 +1,2 @@
+Since our team download from the raw data through the url:https://datasets.imdbws.com/
+And the .tsc files are too large, we only provide this part of data in the clean
